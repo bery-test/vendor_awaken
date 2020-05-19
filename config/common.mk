@@ -242,6 +242,7 @@ PRODUCT_PACKAGES += \
     CertifiedPropsOverlay \
     CustomPixelLauncherOverlay \
     DocumentsUIOverlay \
+    ImmersiveNavigationOverlay \
     NetworkStackOverlay \
     NexusLauncherResOverlay
 
