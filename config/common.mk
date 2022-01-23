@@ -107,7 +107,8 @@ PRODUCT_PACKAGES += \
 
 # Awaken packages
 PRODUCT_PACKAGES += \
-    AwakenWallpaperStub
+    AwakenWallpaperStub \
+    RepainterServicePriv
 
 # Charger
 ifeq ($(USE_PIXEL_CHARGER),true)
