@@ -145,6 +145,10 @@ $(call inherit-product, vendor/awaken/config/bootanimation.mk)
 PRODUCT_PACKAGES += \
     BtHelper
 
+# GameSpace
+PRODUCT_PACKAGES += \
+    GameSpace
+
 # Awaken packages
 PRODUCT_PACKAGES += \
     AwakenWallpaperStub \
