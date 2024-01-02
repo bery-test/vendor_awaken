@@ -138,8 +138,7 @@ PRODUCT_PACKAGES += \
 
 # Awaken packages
 PRODUCT_PACKAGES += \
-    AwakenWallpaperStub \
-    RepainterServicePriv
+    AwakenWallpaperStub
 
 # TextClassifier
 PRODUCT_PACKAGES += \
