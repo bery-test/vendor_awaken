@@ -145,6 +145,10 @@ $(call inherit-product, vendor/awaken/config/bootanimation.mk)
 PRODUCT_PACKAGES += \
     BtHelper
 
+# Parallel space
+PRODUCT_PACKAGES += \
+    ParallelSpace
+
 # GameSpace
 PRODUCT_PACKAGES += \
     GameSpace
